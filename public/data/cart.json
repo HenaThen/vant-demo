@@ -1,0 +1,66 @@
+{
+	"list": [
+		{
+			"shop": "壹玖玖玖",
+			"shop_id": 1,
+			"list": [
+				{
+					"id": 1,
+					"name": "美国进口迦力果",
+					"goodsImg": "https:\//img.yzcdn.cn/public_files/2017/10/24/e5a5a02309a41f9f5def56684808d9ae.jpeg",
+					"size": "约680g/3个",
+					"price": 68.00,
+					"num": 3,
+					"select": false,
+					"shop_id": 1
+				},
+				{
+					"id": 2,
+					"name": "泰国进口香芒",
+					"goodsImg": "https:\//timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1573130150951&di=60b20565b72e2f1e186c6a5f6bf85464&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Fsinacn16%2F0%2Fw800h800%2F20180413%2F05e9-fytnfyp4070486.jpg",
+					"size": "约750g/2个",
+					"price": 30.00,
+					"num": 1,
+					"select": false,
+					"shop_id": 1
+				},
+				{
+					"id": 3,
+					"name": "缅甸进口无限菠萝",
+					"goodsImg": "https:\//timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1573725003&di=26fa83b44b5d68f36065290721e31a65&imgtype=jpg&er=1&src=http%3A%2F%2Fimg0.egou.com%2Fbrand%2F201603%2F20%2Ff8684e57b165f68e6c633cafce24f32a.jpg",
+					"size": "约500g/2个",
+					"price": 20.00,
+					"num": 1,
+					"select": false,
+					"shop_id": 1
+				}
+			]
+		},
+		{
+			"shop": "玖壹零贰模玩手办",
+			"shop_id": 2,
+			"list": [
+				{
+					"id": 4,
+					"name": "GSC Beatless 塞西亚 2018Ver手办",
+					"goodsImg": "http:\//i0.hdslb.com/bfs/mall/mall/67/32/673241379b4aae8020019604227ab5c6.jpg",
+					"size": "1/8 高约200mm",
+					"price": 1059.00,
+					"num": 1,
+					"select": false,
+					"shop_id": 2
+				},
+				{
+					"id": 5,
+					"name": "Methods 机动战队 朱蒂丝 手办",
+					"goodsImg": "http:\//i0.hdslb.com/bfs/mall/mall/c3/64/c36414d100d7504b5875e49b6b8142e1.jpg",
+					"size": "1/8 高约245(含底座)",
+					"price": 708.00,
+					"num": 1,
+					"select": false,
+					"shop_id": 2
+				}
+			]
+		}
+	]
+}

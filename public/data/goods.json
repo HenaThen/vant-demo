@@ -1,0 +1,17 @@
+{
+	"goods": {
+		"shop": "壹玖玖玖",
+		"shop_id": 1,
+		"info": {
+			"id": 1,
+			"name": "美国进口迦力果",
+			"goodsImg": [
+				"https:\//img.yzcdn.cn/public_files/2017/10/24/e5a5a02309a41f9f5def56684808d9ae.jpeg",
+				"https:\//img.yzcdn.cn/public_files/2017/10/24/e5a5a02309a41f9f5def56684808d9ae.jpeg"
+			],
+			"size": "约680g/3个",
+			"price": 68.00,
+			"shop_id": 1
+		}
+	}
+}
